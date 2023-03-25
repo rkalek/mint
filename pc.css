@@ -113,7 +113,7 @@ header .row>div:nth-child(1)>a {
 
     height: 50px;
 
-    background: url(https://rkalek.github.io/mint/mint logo.png) no-repeat; /* url(로고 경로 입력) */
+    background: url('https://rkalek.github.io/mint/minlogo.png') no-repeat; /* url(로고 경로 입력) */
 
     background-size: auto 50px;
 
