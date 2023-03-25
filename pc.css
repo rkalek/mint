@@ -8,7 +8,7 @@
 
   --color-2: #FFFFFF; /* */
 
-  --color-3: #a3fffc; /* main color */
+  --color-3: #f0fa64; /* main color */
 
   --color-4: #7afa87; /* sub  color */
 
@@ -302,7 +302,7 @@ header #header-bar>.row {
 
 header #header-bar #header-top-notice strong.notice-badge {
 
-    background: ##f0fa64; /* 광고 배너 광고 뱃지 배경 색상 */
+    background: #f0fa64; /* 광고 배너 광고 뱃지 배경 색상 */
 
 }
 
@@ -314,7 +314,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper {
 
-    border: 1px solid #f0fa64; /* 좌측 배너 테두리 색 */
+    border: 1px solid #4aa4ff; /* 좌측 배너 테두리 색 */
 
     border-top: none !important;
     border-radius: 15px;
@@ -337,7 +337,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper>.header {
 
-    background: #f0fa64; /* 좌측 배너 제목 배경 색 */
+    background: #4aa4ff; /* 좌측 배너 제목 배경 색 */
 
     border-radius: 15px 15px 0 0;
 
